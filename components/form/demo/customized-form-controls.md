@@ -117,7 +117,7 @@ class Demo extends React.Component {
           })(<PriceInput />)}
         </FormItem>
         <FormItem>
-          <Button type="primary" htmlType="submit">Submit</Button>
+          <Button type="primary" >Submit</Button>
         </FormItem>
       </Form>
     );
